@@ -54,7 +54,6 @@ def main():
     else:
         renderer = Renderer(window_width=1280, window_height=720)
 
-    print("\n=== 裸眼3D 运行中 (MediaPipe Tasks API) ===")
     print("  移动头部 → 改变3D视角")
     print("G → 切换网格  |  ESC → 退出")
 
